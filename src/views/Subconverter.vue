@@ -258,6 +258,16 @@ export default {
         backendOptions: [{ value: "https://suc.duohao.xyz/sub?" }],
         remoteConfig: [
           {
+            label: "Myself",
+            options: [
+              {
+                label: "ACLALL",
+                value:
+                  "https://raw.githubusercontent.com/ResidualBlood/ACL4SSR/master/Clash/Myself/config/ACLALL.ini"
+              }
+            ]
+          },
+          {
             label: "ACL4SSR",
             options: [
               {

@@ -264,6 +264,21 @@ export default {
                 label: "ACLALL",
                 value:
                   "https://raw.githubusercontent.com/ResidualBlood/ACL4SSR/master/Clash/Myself/config/ACLALL.ini"
+              },
+              {
+                label: "ACLALL_Home",
+                value:
+                  "https://raw.githubusercontent.com/ResidualBlood/ACL4SSR/master/Clash/Myself/config/ACLALL_Home.ini"
+              },
+              {
+                label: "ACLALL_Maying",
+                value:
+                  "https://raw.githubusercontent.com/ResidualBlood/ACL4SSR/master/Clash/Myself/config/ACLALL_Maying.ini"
+              },
+              {
+                label: "ACLALL_Test",
+                value:
+                  "https://raw.githubusercontent.com/ResidualBlood/ACL4SSR/master/Clash/Myself/config/ACLALL_Test.ini"
               }
             ]
           },
